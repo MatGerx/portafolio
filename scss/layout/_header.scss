@@ -1,0 +1,13 @@
+
+.index-header{
+    background-image: url(../../img/fondo.png);
+    background-size: cover;
+    background-position: center;
+    height: 95vh;
+    position: relative;
+
+}
+
+.btn-header{
+    @extend %botones;
+}
